@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Glitzi**
 
-- 🌱 I’m currently learning **Data Science with Pyhton**
+- 🌱 I’m currently learning **ROR**
 
 - 👯 I’m looking to collaborate on **laravel projects**
 
