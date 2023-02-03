@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Glitzi**
 
-- 🌱 I’m currently learning **ROR**
+- 🌱 I’m currently migrating all my knowledge from vue 2 to 3 **ROR**
 
 - 👯 I’m looking to collaborate on **laravel projects**
 
