@@ -3,11 +3,17 @@
 
 - 🔭 I’m currently working on **Glitzi**
 
-- 🌱 I’m currently migrating all my knowledge from vue 2 to 3 **ROR**
+- 🌱 I’m currently migrating all my knowledge from **VueJS 2 to 3**
 
 - 👯 I’m looking to collaborate on **laravel projects**
 
 - 💬 Ask me about **Laravel & VueJS**
+
+<h3 align="center">My scientific articles</h3>
+
+ 1. [User-Centered Data Mining Tool for Survival-Mortality Classification of Breast Cancer in Mexican-Origin Women](https://www.sciencedirect.com/science/article/pii/B9780128121306000123)
+ 2. [Minería de datos centrada en el usuario para el análisis de la supervivencia y mortalidad de casos de cáncer de mama en mujeres de origen mexicano](https://www.rcs.cic.ipn.mx/2016_124/Mineria%20de%20datos%20centrada%20en%20el%20usuario%20para%20el%20analisis%20de%20la%20supervivencia%20y%20mortalidad.pdf)
+ 3. [Hacia un nuevo proceso de minería de datos centrado en el usuario](http://pistaseducativas.celaya.tecnm.mx/index.php/pistas/article/view/303)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
