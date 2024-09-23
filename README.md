@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aldair Aquino</h1>
 <h3 align="center">A passionate backend developer from México</h3>
 
-- 🔭 I’m currently working on **Glitzi**
-
-- 🌱 I’m currently migrating all my knowledge from **VueJS 2 to 3**
+- 🔭 I’m currently working on **Cyberpuerta**
 
 - 👯 I’m looking to collaborate on **laravel projects**
 
